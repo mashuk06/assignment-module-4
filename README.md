@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# Ostad Module 4 Assignment
+# Assignment: Vue.js 3 Image Carousel
+# Vue 3 + Vite + Tailwind CSS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Please create an image carousel using Vue.js 3 Composition API. The carousel should support dynamic loading of images, and navigation buttons to move between images. You are encouraged to use Vue.js 3, HTML, CSS, and any preferred CSS frameworks such as Bootstrap or Tailwind CSS. 
